@@ -1,7 +1,7 @@
 ### **_This is my personal github portfolio_** 
 #
 <br />
-- 🔭 I’m currently a undergraduate student.<br />
+- 🔭 I’m currently an undergraduate student.<br />
 - 🌱 I’m open to learn everything that fascinates me.
 <br /><br />
 <br />
