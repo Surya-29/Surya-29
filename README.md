@@ -1,16 +1,12 @@
-### Hi there 👋
+### **_This is my personal github portfolio_** 
+#
+<br />
+- 🔭 I’m currently a undergraduate student.<br />
+- 🌱 I’m open to learn everything that fascinates me.
+<br /><br />
+<br />
 
-<!--
-**Surya-29/Surya-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surya-29&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=15F4EE&icon_color=FFFF00)
+##
+ ###                                                _"Know everything about something and something about everthing"_
+##
